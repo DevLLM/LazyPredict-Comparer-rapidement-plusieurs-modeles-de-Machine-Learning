@@ -1,4 +1,4 @@
-# LazyPredict-Comparer-rapidement-plusieurs-modeles-de-Machine-Learning
+# LazyPredict - Comparer rapidement plusieurs modèles de Machine Learning
 
 ### LLM.Ci - cɪ / xn--c-b2a
 
